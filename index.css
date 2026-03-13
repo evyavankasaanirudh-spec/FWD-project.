@@ -1,0 +1,65 @@
+        body {
+            font-family: 'Times New Roman', Times, serif;
+            background-color: bisque;
+            margin: 0;
+        }
+
+        .container {
+            width: 80%;
+            margin: auto;
+        }
+
+        .header {
+            background-color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .header h1 {
+            margin: 5px 0;
+            color: gold;
+            font-size: 50px;
+        }
+
+        .nav {
+            background-color: black;
+            text-align: center;
+            padding: 10px;
+        }
+
+        .nav a {
+            color: orangered;
+            text-decoration: none;
+            margin: 0 15px;
+            font-weight: bold;
+            text-align: left;
+        }
+
+        .section {
+            background-color: white;
+            margin: 20px 0;
+            padding: 20px;
+            border-radius: 8px;
+        }
+
+        .section h2 {
+            margin-top: 0;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        td, th {
+            padding: 10px;
+            border-bottom: 1px solid #ccc;
+            text-align: left;
+        }
+
+        .footer {
+            background-color: black;
+            color: blue;
+            text-align: center;
+            padding: 15px;
+        }
